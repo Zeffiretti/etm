@@ -1,0 +1,3 @@
+
+PATH=/opt/ros/melodic/bin
+:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin;PKG_CONFIG_PATH=/opt/ros/melodic/lib/pkgconfig;PYTHONPATH=/opt/ros/melodic/lib/python2.7/dist-packages;ROS_VERSION=1;ROS_DISTRO=melodic;CMAKE_PREFIX_PATH=/opt/ros/melodic;ROS_PACKAGE_PATH=/opt/ros/melodic/share;ROS_PYTHON_VERSION=2;ROS_ETC_DIR=/opt/ros/melodic/etc/ros;LD_LIBRARY_PATH=/opt/ros/melodic/lib;ROS_ROOT=/opt/ros/melodic/share/ros;ROS_MASTER_URI=http://localhost:11311;ROSLISP_PACKAGE_DIRECTORIES=;PWD=/opt/ros/melodic;SHLVL=1;_=/usr/bin/env
